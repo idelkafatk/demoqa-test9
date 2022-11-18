@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.FirstTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-18T17:34:49" hostname="MacBook-Air-Idel.local" time="0.006">
+  <properties/>
+  <testcase name="firstTest()" classname="guru.qa.FirstTest" time="0.005"/>
+  <testcase name="secondTest()" classname="guru.qa.FirstTest" time="0.0"/>
+  <system-out><![CDATA[before
+first
+second
+after
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
